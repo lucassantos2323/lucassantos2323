@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**lucassantos2323/lucassantos2323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####boas vindas a o meu perfil 💔
 
-Here are some ideas to get you started:
+meu nome e lucas dos santos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou estudando alura
+- 
+- estou desenvolvendo na linguagem JAVASCRIPT
+- 
+- utilizo esse esaço para minha organizaçao e compartilhamento dos projetos
+
+- ### Voce pode entrar em contato comigo
+
+- lucask2848@gmaiel.com 
